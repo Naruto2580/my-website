@@ -1,0 +1,52 @@
+body{
+    margin:5px;
+    width: 100%;
+    height: 0%;
+    padding-bottom: 41.25%;
+    
+    
+}
+HEader{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    margin: -15px;
+    font-family: Comic Sans MS;
+    text-align: center;
+    
+ 
+
+}
+
+
+footer{
+    
+    text-align: center;
+    
+}
+h2{
+    padding: 21px;
+    color-scheme: purple;
+    text-shadow: thistle;
+    text-size-adjust: 21;
+    text-align: center;
+}
+th,tr,td{
+    border:2px solid black;}
+    h2{
+        font-family:comic Sans MS ;
+    }
+    h3{
+        text-align: center;
+        font-family: Comic Sans MS;
+    }
+    h6{
+        text-align: center;
+        font-size: 24px;
+        margin: 0px;
+        font-family: comic Sans MS;
+    }
+    image{
+        height: 74%;
+        width: 50%;
+    }
